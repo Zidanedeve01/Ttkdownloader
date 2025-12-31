@@ -1,7 +1,3 @@
-# buatkan-saya-website-downloade
-
-Ubah nama develover menjdi ' Zdanealltf Develover ' 
-Dan saat orang klil logo instagram langsung mengarah ke akun instagram @azzmzdn.mp4 kalo github @Zidanedeve01 , logo twiter ubah sama telegram dan ketika di pencet langsung ke akun @AlwaysDionz
 
 ## Getting Started
 
